@@ -2,4 +2,4 @@
 1
 2
 3
-p dea Data envelopment analysis
+p listreg Linear regression for list experiments Use listreg With STATA 18
