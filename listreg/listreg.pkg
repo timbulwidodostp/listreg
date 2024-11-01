@@ -1,5 +1,5 @@
-d 'DEA': Data envelopment analysis
+d 'listreg': Linear regression for list experiments Use listreg With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f _listreg_svy.ado
+f listreg.ado
+f listreg.sthlp
