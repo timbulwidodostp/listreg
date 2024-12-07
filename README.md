@@ -3,6 +3,8 @@ Linear regression for list experiments Use listreg With STATA 18
 
 Analysis of list experiments using linear regression Use listreg With STATA 18
 
+https://www.youtube.com/watch?v=ViArLZVWGzI
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
